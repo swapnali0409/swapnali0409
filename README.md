@@ -1,16 +1,38 @@
-## Hi there 👋
+##  My Embedded Systems Journey (STM32)
 
-<!--
-**swapnali0409/swapnali0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Basic Projects
 
-Here are some ideas to get you started:
+1. 7 Segment Display
+2. LCD 8-bit Interface
+3. LCD 4-bit Interface
+4. External Interrupt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Peripheral Learning
+
+5. ADC Basic
+6. ADC with LM35 Temperature Sensor
+7. PWM Generation
+8. UART Communication
+
+---
+
+###  Integration Projects
+
+9. ADC + LCD Display
+10. LCD + UART Communication
+11. Decimal to Binary (LCD)
+12. Decimal to Binary (LCD + UART)
+
+---
+
+###  Advanced Projects
+
+13. MP1
+14. MP2
+15. Mini DSO (Digital Storage Oscilloscope) 
+
+---
+
+
