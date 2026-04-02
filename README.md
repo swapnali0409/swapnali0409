@@ -29,9 +29,9 @@
 
 ###  Advanced Projects
 
-13. MP1
-14. MP2
-15. Mini DSO (Digital Storage Oscilloscope) 
+13. ST7789_TFT_Hello Display
+14. SineWave using bluepill and TFT display
+16. Mini DSO (Digital Storage Oscilloscope) 
 
 ---
 
