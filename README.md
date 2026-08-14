@@ -1,21 +1,31 @@
 <div align="center">
 
-# ⚡ SWAPNALI RATHOD
+# <span style="color:#00B4D8;">⚡ SWAPNALI RATHOD</span>
 
-### Embedded Systems | Firmware Development | RTOS | Hardware–Software Integration
+### <span style="color:#5BC0EB;">Embedded Systems</span> | <span style="color:#9B5DE5;">Firmware Development</span> | <span style="color:#00B894;">RTOS</span> | <span style="color:#F4A261;">Hardware–Software Integration</span>
 
 <p>
   <b>Electronics & Telecommunication Engineering Student</b><br>
-  Pune Institute of Computer Technology (PICT), Pune
+  <span style="color:#3A86FF;">Pune Institute of Computer Technology (PICT), Pune</span>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=8&section=header"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,50:4361EE,100:9B5DE5&height=8&section=header"/>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swapnali%20Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnali-rathod-1b541a31b/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-swapnali0409-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnali0409)
+
+[![EWSkills](https://img.shields.io/badge/EWSkills-Swapnali%20Rathod-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.ewskills.com/user/SwapnaliRathod)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=swapnali0409&style=for-the-badge&color=3A86FF&label=PROFILE+VIEWS)](https://github.com/swapnali0409)
+
+<br>
+
+### <span style="color:#00B4D8;">⚙️ Building • Debugging • Learning • Improving</span>
 
 </div>
 
