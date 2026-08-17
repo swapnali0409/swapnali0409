@@ -21,8 +21,6 @@
 
 [![EWSkills](https://img.shields.io/badge/EWSkills-Swapnali%20Rathod-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.ewskills.com/user/SwapnaliRathod)
 
-[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD-00B894?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume/Swapnali_Rathod_Resume.pdf)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=swapnali0409&style=for-the-badge&color=3A86FF&label=PROFILE+VIEWS)](https://github.com/swapnali0409)
 
 <br>
